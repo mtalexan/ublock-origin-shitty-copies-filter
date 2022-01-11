@@ -397,3 +397,5 @@ google.*##.g:has(a[href*="imtqy.com"])
 *://stackoom.com/*
 *://*.it-swarm-fr.com/* 
 *://*.imtqy.com/*
+duckduckgo.*##.g:has(a[href*="tripadvisor.com"])
+google.*##.g:has(a[href*="tripadvisor.com"])

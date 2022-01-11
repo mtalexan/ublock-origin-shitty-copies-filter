@@ -1,0 +1,1 @@
+duckduckgo.*##.g:has(a[href*="tripadvisor.com"])

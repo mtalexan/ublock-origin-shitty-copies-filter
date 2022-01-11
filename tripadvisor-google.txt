@@ -1,0 +1,1 @@
+google.*##.g:has(a[href*="tripadvisor.com"])
